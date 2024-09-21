@@ -1,0 +1,100 @@
+id,full_name,jobtitle,department,businessunit,gender
+1,Emily Davis,Sr. Manger,IT,Research & Development,Female
+2,Luna Sanders,Director,Finance,Speciality Products,Female
+3,Penelope Jordan,Computer Systems Manager,IT,Manufacturing,Female
+4,Austin Vo,Sr. Analyst,Finance,Manufacturing,Male
+5,Ruby Barnes,Manager,IT,Corporate,Female
+6,Luke Martin,Analyst,Finance,Manufacturing,Male
+7,Easton Bailey,Manager,Accounting,Manufacturing,Male
+8,Madeline Walker,Sr. Analyst,Finance,Speciality Products,Female
+9,Savannah Ali,Sr. Manger,Human Resources,Manufacturing,Female
+10,Camila Rogers,Controls Engineer,Engineering,Speciality Products,Female
+11,Eli Jones,Manager,Human Resources,Manufacturing,Male
+12,Robert Yang,Sr. Analyst,Accounting,Speciality Products,Male
+13,Isabella Xi,Vice President,Marketing,Research & Development,Female
+14,Bella Powell,Director,Finance,Research & Development,Female
+15,Camila Silva,Sr. Manger,Marketing,Speciality Products,Female
+16,David Barnes,Director,IT,Corporate,Male
+17,Eva Rivera,Director,Sales,Manufacturing,Female
+18,Leonardo Dixon,Analyst,Sales,Speciality Products,Male
+19,Jose Henderson,Director,Human Resources,Speciality Products,Male
+20,Wyatt Chin,Vice President,Engineering,Speciality Products,Male
+21,Ezekiel Kumar,IT Coordinator,IT,Research & Development,Male
+22,Angel Powell,Analyst II,Sales,Research & Development,Male
+23,Caroline Jenkins,Analyst,Finance,Research & Development,Female
+24,Nora Brown,Enterprise Architect,IT,Manufacturing,Female
+25,Jackson Perry,Vice President,Marketing,Research & Development,Male
+26,Riley Padilla,Technical Architect,IT,Manufacturing,Female
+27,Kennedy Foster,Manager,Marketing,Speciality Products,Female
+28,John Moore,Vice President,IT,Speciality Products,Male
+29,Sadie Washington,Sr. Manger,Marketing,Research & Development,Female
+30,Gabriel Holmes,Enterprise Architect,IT,Research & Development,Male
+31,Wyatt Rojas,Computer Systems Manager,IT,Corporate,Male
+32,Eva Coleman,Director,IT,Research & Development,Female
+33,Dominic Clark,Quality Engineer,Engineering,Research & Development,Male
+34,Lucy Alexander,Director,Engineering,Manufacturing,Female
+35,Everleigh Washington,HRIS Analyst,Human Resources,Research & Development,Female
+36,Leilani Butler,Analyst II,Marketing,Manufacturing,Female
+37,John Contreras,Analyst II,Marketing,Manufacturing,Male
+38,Rylee Yu,Director,Accounting,Research & Development,Female
+39,Piper Lewis,Field Engineer,Engineering,Research & Development,Female
+40,Stella Alexander,Automation Engineer,Engineering,Corporate,Female
+41,Addison Do,Operations Engineer,Engineering,Manufacturing,Female
+42,Zoey Jackson,Business Partner,Human Resources,Manufacturing,Female
+43,Skylar Carrillo,Engineering Manager,Engineering,Corporate,Female
+44,Christian Sanders,Vice President,Human Resources,Speciality Products,Male
+45,Penelope Coleman,Analyst,Finance,Corporate,Female
+46,Piper Richardson,Sr. Analyst,Sales,Corporate,Female
+47,Everly Walker,HRIS Analyst,Human Resources,Speciality Products,Female
+48,Aurora Ali,Manager,Marketing,Research & Development,Female
+49,Penelope Guerrero,Vice President,IT,Speciality Products,Female
+50,Anna Mehta,Cloud Infrastructure Architect,IT,Speciality Products,Female
+51,William Foster,Field Engineer,Engineering,Manufacturing,Male
+52,Jade Rojas,Director,Finance,Speciality Products,Female
+53,David Chu,Controls Engineer,Engineering,Corporate,Male
+54,Samuel Morales,Analyst II,Finance,Corporate,Male
+55,John Soto,Sr. Manger,Finance,Manufacturing,Male
+56,Joseph Martin,Analyst II,Marketing,Corporate,Male
+57,Jose Ross,Engineering Manager,Engineering,Research & Development,Male
+58,Parker James,Quality Engineer,Engineering,Speciality Products,Male
+59,Lincoln Hall,Director,Accounting,Speciality Products,Male
+60,Gabriel Brooks,Network Engineer,IT,Manufacturing,Male
+61,Xavier Zheng,Account Representative,Sales,Manufacturing,Male
+62,Matthew Chau,Sr. Business Partner,Human Resources,Research & Development,Male
+63,Mia Cheng,Sr. Manger,Sales,Manufacturing,Female
+64,Nevaeh Jones,Vice President,Sales,Manufacturing,Female
+65,Samantha Adams,Test Engineer,Engineering,Research & Development,Female
+66,Madeline Shin,Computer Systems Manager,IT,Speciality Products,Female
+67,Noah King,Development Engineer,Engineering,Speciality Products,Male
+68,Connor Simmons,Analyst II,Accounting,Speciality Products,Male
+69,Grayson Cooper,Sr. Manger,Finance,Speciality Products,Male
+70,Ivy Soto,Field Engineer,Engineering,Research & Development,Female
+71,Aurora Simmons,Development Engineer,Engineering,Corporate,Female
+72,Andrew Thomas,Controls Engineer,Engineering,Manufacturing,Male
+73,Ezekiel Desai,Director,Finance,Research & Development,Male
+75,Evelyn Dinh,Director,Sales,Research & Development,Female
+76,Brooks Marquez,Vice President,Sales,Corporate,Male
+77,Connor Joseph,Director,Human Resources,Corporate,Male
+78,Mia Lam,Sr. Manger,IT,Manufacturing,Female
+79,Cora Rivera,Sr. Analyst,Marketing,Corporate,Female
+80,Sophia Huynh,Enterprise Architect,IT,Manufacturing,Female
+81,Athena Carrillo,Analyst II,Finance,Speciality Products,Female
+82,Greyson Sanders,Cloud Infrastructure Architect,IT,Speciality Products,Male
+83,Vivian Lewis,Manager,Marketing,Manufacturing,Female
+84,Natalia Diaz,Operations Engineer,Engineering,Corporate,Female
+85,Ava Nelson,Systems Analyst,IT,Manufacturing,Female
+86,Ezekiel Reed,Sr. Manger,IT,Manufacturing,Male
+87,Everleigh Espinoza,Director,Human Resources,Manufacturing,Female
+88,Mateo Williams,Enterprise Architect,IT,Manufacturing,Male
+89,Hannah Nelson,Sr. Analyst,Marketing,Speciality Products,Female
+90,Anthony Rogers,Vice President,Engineering,Corporate,Male
+91,Silas Chavez,Technical Architect,IT,Research & Development,Male
+92,Genesis Perry,Sr. Manger,Sales,Corporate,Female
+93,Alexander Bryant,Field Engineer,Engineering,Speciality Products,Male
+94,Lily Carter,Network Architect,IT,Research & Development,Female
+95,Avery Bailey,Sr. Analyst,Sales,Speciality Products,Female
+96,Piper Cheng,Enterprise Architect,IT,Manufacturing,Female
+97,Skylar Watson,Network Architect,IT,Speciality Products,Female
+98,Elijah Henry,Manager,IT,Corporate,Male
+99,Camila Watson,Vice President,Finance,Speciality Products,Female
+100,Lucas Thomas,Manager,Accounting,Research & Development,Male
